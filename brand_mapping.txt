@@ -1,0 +1,1 @@
+alfa-romero=0,audi=1,bmw=2,chevrolet=3,dodge=4,honda=5,isuzu=6,mazda=7,mercedes-benz=8,mercury=9,mitsubishi=10,nissan=11,peugot=12,plymouth=13,porsche=14,saab=15,subaru=16,toyota=17,volvo=18,volkswagen=20,jaguar=21
